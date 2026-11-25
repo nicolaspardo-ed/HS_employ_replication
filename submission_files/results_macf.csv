@@ -1,0 +1,5 @@
+"Outcome","Comparison","ATE_base","SE_base","ATE_trim","SE_trim"
+"BA or Higher","Low (1-20 hrs) vs None",0.0253,0.0126,0.0259,0.0126
+"BA or Higher","High (21+ hrs) vs None",-0.0689,0.0136,-0.0692,0.0136
+"Annual Earnings ($)","Low (1-20 hrs) vs None",2959.4091,632.0341,2942.6999,634.1551
+"Annual Earnings ($)","High (21+ hrs) vs None",4148.5094,703.9367,4172.9775,706.6118

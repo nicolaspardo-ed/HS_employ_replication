@@ -1,0 +1,8 @@
+"12th grade work intensity"
+="",="BA+",="BA+",="Income",="Income"
+="Low (1-20 hrs)",="0.0740*** (0.0171)",="0.0161 (0.0139)",="4046.2*** (755.6)",="2672.4*** (716.3)"
+="High (21+ hrs)",="-0.141*** (0.0172)",="-0.0512*** (0.0152)",="3276.3*** (901.2)",="3904.4*** (849.0)"
+="Covariates",="",="X",="",="X"
+="N",="8186",="8186",="8186",="8186"
+"Survey-weighted estimates. BA columns: logit average marginal effects. Income columns: OLS coefficients. Covariates include: sex, native language, region and urbanicity, socioeconomic status, race, number of extracurriculars, age, teacher-student relation, parental aspirations, parental education, student preparation for class, student education and occupational expectations, school poverty, school sector, composite test scores, family composition, and perceived school safety."
+"* p<0.05, ** p<0.01, *** p<0.001"
